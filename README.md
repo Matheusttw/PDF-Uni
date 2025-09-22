@@ -62,7 +62,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Matheusttw/PDF-uni.git](https://github.com/seu-usuario/pdf-uni.git)
+    git clone [https://github.com/Matheusttw/PDF-uni.git]
     cd pdf-uni
     ```
 
